@@ -28,7 +28,7 @@ def shortener(request):
             serializer.save(new_link=new_link)
             return Response(serializer.data)
 
-
+# BASE62
 def convert():
     encoding = ['a','b','c','d','e','f','g','h','i','j','k','l',
                 'm','n','o','p','q','r','s','t','u','v','w','x',

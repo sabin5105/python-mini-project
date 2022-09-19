@@ -1,11 +1,11 @@
-# python-mini-project
-## 👀 mini-projects to improve implementation skills with python 👀
+# mini-project
+## 👀 mini-projects to improve implementation skills with Python, JS, C-stuffs .... 👀
 
 <hr>
 
 
 ### 🔥 Done
-* URL shortener (Done)
+* URL shortener (Done / **_Python_**)
 
 ### 🤟🏻 about to proceed 
 * Mad Libs Generator 
